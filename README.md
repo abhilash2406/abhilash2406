@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Abhilash Kumar A
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-abhilash2406/abhilash2406 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Abhilash Kumar A  
+- 💻 I’m a Full Stack Developer with 3+ years of experience building scalable web applications  
+- 👀 I’m interested in Full Stack Development, System Design, Cloud Technologies, and Open Source  
+- 🌱 I’m currently learning advanced system architecture, DevOps practices, and cloud-native development  
+- 💞️ I’m looking to collaborate on innovative web applications, SaaS products, and open-source projects  
+- 📫 How to reach me:  
+  - 📧 Email: abhilashkumar66666@gmail.com  
+  - 🔗 LinkedIn: https://www.linkedin.com/in/abhilash-kumar-a-928b67188  
